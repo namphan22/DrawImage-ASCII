@@ -39,8 +39,8 @@ void question_part(void)
     uint16_t count;
     
     fstream File;
-    File.open("question_user.txt",ios::in);// m? file ? ch? d? d?c
-    while(!File.eof()) // d?c t?i cu?i file tr? l?i giá tr? true
+    File.open("question_user.txt",ios::in);// mở file ở chế độ đọc
+    while(!File.eof()) // dđọc tới cuối file sẽ trả lại giá trị true
     {
         getline(File,question[num]);
         getline(File,ans[num++]);
