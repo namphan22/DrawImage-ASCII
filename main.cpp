@@ -22,8 +22,9 @@ void question_part(void)
        
     }
     File.close();
+    cout<<num;
     
-    for(count =0;count <num;count++)
+    for(count =0;count <num-1;count++)
     {
         cout<< "Q"<<(count+1)<<":"<<endl;
         do
@@ -37,7 +38,7 @@ void question_part(void)
         } while (answer_user!=ans[count]);
         
     }
-
+ 
   
 
  
