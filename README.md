@@ -1,6 +1,6 @@
 # DrawImage-ASCII
 # Bước 1:Tải source code về máy tính
-![image](https://user-images.githubusercontent.com/84735778/169545747-1726e57f-ad2f-4be1-b68a-6271fe8be938.png)
+![image](https://user-images.githubusercontent.com/84735778/169548194-b8916aef-c0f5-4b8f-a9ab-b5a4e9980cf9.png)
 ## -Sau khi tải xong các bạn sẽ được các file như này ở dưới máy tính 
 ![image](https://user-images.githubusercontent.com/84735778/169546205-e53bf414-f88e-4239-86df-ec2ef1c6c530.png)
 # Bước 2:Tạo các câu hỏi
