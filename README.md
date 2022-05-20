@@ -15,3 +15,9 @@ https://www.text-image.com/convert/ascii.html
 ![image](https://user-images.githubusercontent.com/84735778/169547140-5dd87c37-5091-4370-af75-1ccfada7144d.png)
 # Bước 4:Chạy chương trình
 ## -Bạn có thể bấm vào file a.exe để chạy chương trình.
+## -Nếu hệ điều hành bạn đang dùng không cho phép mở file.exe thì bạn có thể vào devc++ build lại chương trình rồi chạy.
+# Đây là kết quả của chương trình.
+
+
+https://user-images.githubusercontent.com/84735778/169549465-eb879355-f402-4805-ba7b-526df74073c5.mp4
+
